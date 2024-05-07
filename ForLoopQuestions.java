@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment07 {
+public class ForLoopQuestions {
 
 	public static void main(String[] args) {
 
