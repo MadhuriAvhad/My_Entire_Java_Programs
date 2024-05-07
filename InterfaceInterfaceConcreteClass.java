@@ -10,11 +10,11 @@ interface mam extends sir{
 	void wrong();	
 }
 
-public class Assignment15_InterfaceInterfaceConcreteClass implements mam {
+public class InterfaceInterfaceConcreteClass implements mam {
 
 	public static void main(String[] args) {
 		
-		Assignment15_InterfaceInterfaceConcreteClass iic = new Assignment15_InterfaceInterfaceConcreteClass();
+		InterfaceInterfaceConcreteClass iic = new InterfaceInterfaceConcreteClass();
 		iic.accept();
 		iic.correct();
 		iic.reject();
