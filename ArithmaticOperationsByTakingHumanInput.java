@@ -2,7 +2,7 @@ package javaByMKT;
 
 import java.util.Scanner;
 
-public class Assignment11_ArithmaticOperationsByTakingHumanInput {
+public class ArithmaticOperationsByTakingHumanInput {
 	
 	void add(int a, int b)
 	{
@@ -34,7 +34,7 @@ public class Assignment11_ArithmaticOperationsByTakingHumanInput {
 		System.out.println("Write value for b ");
 		int b = sc.nextInt();
 		
-		Assignment11_ArithmaticOperationsByTakingHumanInput nsmethods = new Assignment11_ArithmaticOperationsByTakingHumanInput();
+		ArithmaticOperationsByTakingHumanInput nsmethods = new ArithmaticOperationsByTakingHumanInput();
 		
 		nsmethods.add(a,b);
 		nsmethods.sub(a,b);
