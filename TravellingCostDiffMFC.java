@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment06_TravellingCostDiffMFC 
+public class TravellingCostDiffMFC 
 {
 	public static void main(String[] args) 
 	{
