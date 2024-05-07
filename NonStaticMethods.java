@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment03_NonStaticMethods {
+public class NonStaticMethods {
 	void add()
 	{
 		int a = 10;
