@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment05_ConstructorOverloading {
+public class ConstructorOverloading {
 	
 	Assignment05_ConstructorOverloading()
 	{
