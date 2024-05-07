@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment04_StaticNonStaticMethods {
+public class StaticNonStaticMethods {
 	
 	static void smethod()
 	{
