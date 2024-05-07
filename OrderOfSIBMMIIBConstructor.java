@@ -2,7 +2,7 @@ package javaByMKT;
 
 public class OrderOfSIBMMIIBConstructor {
 	
-	Assignment13_OrderOfSIBMMIIBConstructor()
+	OrderOfSIBMMIIBConstructor()
 	{
 		System.out.println("Started with the Constructor execution");
 	}
@@ -10,7 +10,7 @@ public class OrderOfSIBMMIIBConstructor {
 	public static void main(String[] args) {
 		
 		System.out.println("Started with the Main Method execution");
-		Assignment13_OrderOfSIBMMIIBConstructor order = new Assignment13_OrderOfSIBMMIIBConstructor();
+		OrderOfSIBMMIIBConstructor order = new OrderOfSIBMMIIBConstructor();
 	}
 	
 	{
