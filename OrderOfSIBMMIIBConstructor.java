@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment13_OrderOfSIBMMIIBConstructor {
+public class OrderOfSIBMMIIBConstructor {
 	
 	Assignment13_OrderOfSIBMMIIBConstructor()
 	{
