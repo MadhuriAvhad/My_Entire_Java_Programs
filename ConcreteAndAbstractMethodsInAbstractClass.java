@@ -21,7 +21,7 @@ public class Assignment14_ConcreteAndAbstractMethodsInAbstractClass extends MKT 
 	
 	public static void main(String[] args) {
 		System.out.println("Execution starting from Main Block");
-		Assignment14_ConcreteAndAbstractMethodsInAbstractClass a = new Assignment14_ConcreteAndAbstractMethodsInAbstractClass();
+		ConcreteAndAbstractMethodsInAbstractClass a = new ConcreteAndAbstractMethodsInAbstractClass();
 		in();
 		a.out();
 		a.java();
