@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment02_StaticMethod {
+public class StaticMethod {
 	 
 	static void add()
 	{
