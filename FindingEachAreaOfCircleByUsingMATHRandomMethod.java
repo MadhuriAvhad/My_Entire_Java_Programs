@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment_FindingEachAreaOfCircleByUsingMATHRandomMethod {
+public class FindingEachAreaOfCircleByUsingMATHRandomMethod {
 
 	public static void main(String[] args) {
 

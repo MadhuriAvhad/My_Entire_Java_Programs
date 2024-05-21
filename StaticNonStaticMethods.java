@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment04_StaticNonStaticMethods {
+public class StaticNonStaticMethods {
 	
 	static void smethod()
 	{
@@ -13,7 +13,7 @@ public class Assignment04_StaticNonStaticMethods {
 	}
 
 	public static void main(String[] args) {
-		Assignment04_StaticNonStaticMethods method = new Assignment04_StaticNonStaticMethods();
+		StaticNonStaticMethods method = new StaticNonStaticMethods();
 		method.nsmethod();
 		smethod();
 	}

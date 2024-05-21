@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment03_NonStaticMethods {
+public class NonStaticMethods {
 	void add()
 	{
 		int a = 10;
@@ -32,7 +32,7 @@ public class Assignment03_NonStaticMethods {
 		System.out.println("void mod() "+(a%b));
 	}
 	public static void main(String[] args) {
-		Assignment03_NonStaticMethods methods = new Assignment03_NonStaticMethods();
+		NonStaticMethods methods = new NonStaticMethods();
 		methods.add();
 		methods.sub();
 		methods.mul();

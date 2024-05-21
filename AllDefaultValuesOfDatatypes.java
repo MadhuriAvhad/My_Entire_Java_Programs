@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment09_AllDefaultValuesOfDatatypes {
+public class AllDefaultValuesOfDatatypes {
 	
 	byte by;
 	static short sh;
@@ -14,7 +14,7 @@ public class Assignment09_AllDefaultValuesOfDatatypes {
 	
 	public static void main(String[] args) {
 		
-		Assignment09_AllDefaultValuesOfDatatypes data = new Assignment09_AllDefaultValuesOfDatatypes();
+		AllDefaultValuesOfDatatypes data = new AllDefaultValuesOfDatatypes();
 		
 		System.out.println(data.by);
 		System.out.println(sh);

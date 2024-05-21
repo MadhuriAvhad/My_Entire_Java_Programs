@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment08_AddSubMulDivModUsingGlobalVariable {
+public class AddSubMulDivModUsingGlobalVariable {
 	
 	static int a = 20;
 	static int b = 30;
@@ -27,7 +27,7 @@ public class Assignment08_AddSubMulDivModUsingGlobalVariable {
 		System.out.println("static void mod() "+(a%b));
 	}
 	public static void main(String[] args) {
-		Assignment08_AddSubMulDivModUsingGlobalVariable nsmethods = new Assignment08_AddSubMulDivModUsingGlobalVariable();
+		AddSubMulDivModUsingGlobalVariable nsmethods = new AddSubMulDivModUsingGlobalVariable();
 		nsmethods.add();
 		nsmethods.sub();
 		nsmethods.mul();

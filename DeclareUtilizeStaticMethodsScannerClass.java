@@ -2,7 +2,7 @@ package javaByMKT;
 
 import java.util.Scanner;
 
-public class Assignment12_DeclareUtilizeStaticMethodsScannerClass {
+public class DeclareUtilizeStaticMethodsScannerClass {
 	
 	static short sh;
 	static byte by;

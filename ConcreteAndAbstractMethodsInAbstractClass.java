@@ -14,14 +14,14 @@ abstract class MKT extends student {
 	
 	static void speak() {System.out.println("speak static method form MKT class");}
 }
-public class Assignment14_ConcreteAndAbstractMethodsInAbstractClass extends MKT {
+public class ConcreteAndAbstractMethodsInAbstractClass extends MKT {
 	void left() {System.out.println("left non static method from main class");}
 	
 	static void right() {System.out.println("right static method from main class");}
 	
 	public static void main(String[] args) {
 		System.out.println("Execution starting from Main Block");
-		Assignment14_ConcreteAndAbstractMethodsInAbstractClass a = new Assignment14_ConcreteAndAbstractMethodsInAbstractClass();
+		ConcreteAndAbstractMethodsInAbstractClass a = new ConcreteAndAbstractMethodsInAbstractClass();
 		in();
 		a.out();
 		a.java();

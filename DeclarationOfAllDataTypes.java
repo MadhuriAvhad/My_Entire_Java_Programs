@@ -1,6 +1,6 @@
 package javaByMKT;
 
-public class Assignment01_DeclarationOfAllDataTypes {
+public class DeclarationOfAllDataTypes {
 
 	public static void main(String[] args) {
 		
